@@ -25,11 +25,11 @@ if (numero_anni < 18) {
  // console.log (prezzo_biglietto_over.toFixed(2));
 
 }else if (numero_anni >18 && numero_anni <= 65 ) {
-    alert ('Il prezzo del biglietto è:' + ' ' + prezzo_biglietto.toFixed(2) + '€')
+    alert ('Il prezzo del biglietto è:' + ' ' + prezzo_biglietto.toFixed(2) + '€');
  // console.log (prezzo_biglietto.toFixed(2));
 
 }else {
-    alert ('Errore di digitazione; Si prega di riprovare.')
+    alert ('Errore di digitazione; Si prega di riprovare.');
 }
 
 
